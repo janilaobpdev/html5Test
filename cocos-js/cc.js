@@ -1,4 +1,4 @@
-System.register(['_virtual_cc-8ed102a6.js'], (function (exports) {
+System.register(['./_virtual_cc-8ed102a6.js'], (function (exports) {
 	'use strict';
 	return {
 		setters: [function (module) {
